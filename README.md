@@ -2,7 +2,7 @@
 
 brew install flydiverny/tap/git-link
 
-Usage: `git-link`
+Usage: `git-link [ref]`
 
 ## Install
 
